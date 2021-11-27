@@ -26,7 +26,7 @@ Once we have bred the next generation, we randomly (with a small chance) choose 
 
 We then repeat the process until we are happy with the results.
 ## Track
-<img src="images/track1.png" alt="Picture of track1" width="500px" height="auto">
+![image](https://user-images.githubusercontent.com/44118554/143688082-2fce7438-551c-48e8-a0f6-0acb9673c083.png)
 
 ## How to use
 - Download the project files and run inside the unity editor, under multi agent scene
