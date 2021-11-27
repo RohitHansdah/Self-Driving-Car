@@ -2,12 +2,12 @@
 
 A 3D Unity simulation that trains a car to drive around a track for as long and as fast as possible. The car is controlled using a fully connected neural network and is trained through a genetic algorithm.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=oYBysMULeiA" target="_blank"><img src="http://img.youtube.com/vi/oYBysMULeiA/0.jpg" 
+
 
 
 ## The Car
 The car is equipped with 3 sensors
-<img src="images/car.png" alt="Picture of Car" width="400px" height="auto">
+
 
 ## Neural Network
 The network is customizable in terms of how many layers and the number of nodes in each layer. The type of network is fixed (feed forward) and I would like to try new network types in the future. 
