@@ -6,6 +6,7 @@ A 3D Unity simulation that trains a car to drive around a track for as long and 
 
 
 ## The Car
+![image](https://user-images.githubusercontent.com/44118554/143688142-6c09b31e-fb43-43c8-a7aa-26fd2e8ecfd6.png)
 The car is equipped with 3 sensors
 
 
